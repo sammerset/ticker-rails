@@ -1,0 +1,2 @@
+# ticker-rails
+Ticker-Rails
